@@ -12,3 +12,4 @@ I resumed this challenge after a break of around 27 days, lol. anyways I revised
 Did my hands dirty on Android Studio, build my first app yes the "Hello World" xd. and did little of apache cassandar database course on datastax e-learning.
 
 #### Day 4 of #100DqysOfCode
+I did Android today, made an UnitConverter App. I learned about some functions to manage the input and give output by processing. and then while pushing the code to GitHub, felt like revising git commands so ya did that.
