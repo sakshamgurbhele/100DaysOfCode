@@ -16,3 +16,6 @@ I did Android today, made an UnitConverter App. I learned about some functions t
 
 #### Day 5 & Day 6 of #100DaysOfCode
 University exams are going on couldn't do much, but somehow managed to revise java concepts. and In this, I've learned one thing revision is a must, things fly super-duper fast.
+
+#### Day 7 of #100DaysOfCode
+Studied about List view and Recycler view in Android, and as Univeristy exam are going need to slow down the challenge a bit.
