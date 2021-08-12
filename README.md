@@ -19,3 +19,6 @@ University exams are going on couldn't do much, but somehow managed to revise ja
 
 #### Day 7 of #100DaysOfCode
 Studied about List view and Recycler view in Android, and as Univeristy exam are going need to slow down the challenge a bit.
+
+#### Day 8 & 9 of #100DaysOfCode 
+I did the Installation of Apache Cassandra and studied about Recursion and solved 3 easy - medium questions on Leetcode. the Installation was quite tough and hectic. also, the University exams are still on. ugh
